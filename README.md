@@ -8,4 +8,4 @@ If you are reading this, that means that I have already completed this course fo
 
 I have heard nothing but great things from this course, and I will be sure to offer my thoughts eventually.
 
-Course Link: https://cs50.harvard.edu/x/2020/weeks/0/
+Course Link: https://cs50.harvard.edu/x/2020/syllabus/
