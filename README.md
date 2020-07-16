@@ -7,3 +7,5 @@ If I do finish it, I will probably re-enroll afterwards for the paid version, wh
 If you are reading this, that means that I have already completed this course for free, and then re-completed it and got the cerrtificate of completion (I will not publicize solutions before I complete the course because of the irrational fear of plagairism). 
 
 I have heard nothing but great things from this course, and I will be sure to offer my thoughts eventually.
+
+Course Link: https://cs50.harvard.edu/x/2020/weeks/0/
