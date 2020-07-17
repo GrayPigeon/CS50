@@ -8,4 +8,6 @@ If you are reading this, that means that I have already completed this course fo
 
 I have heard nothing but great things from this course, and I will be sure to offer my thoughts eventually.
 
+This is the only time I will ever use 'new-line curly braces,' as it is mandated :/
+
 Course Link: https://cs50.harvard.edu/x/2020/syllabus/
