@@ -17,7 +17,7 @@ Instructions (paraphrased):
 
 *** 
 
-**Credit (Harder Assignment)***
+**Credit (Harder Assignment)**
 
 Instructions (paraphrased): 
 - Take input of a credit-card number from the user
