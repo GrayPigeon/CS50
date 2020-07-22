@@ -1,11 +1,11 @@
 **Caesar Cipher (Easier Assignment)**
 
 Instructions (paraphrased): 
-1. Accept a single command-line argument, a non-negative integer. Let’s call it k for the sake of discussion. 
+1. Accept a single command-line argument, a non-negative integer. Let’s call it 'k' for the sake of discussion. 
 2. Output plaintext: (without a newline) and then prompt the user for a string of plaintext.
 3. Output ciphertext: (without a newline) followed by the plaintext’s corresponding ciphertext, with each alphabetical character in the plaintext “rotated” by k positions; non-alphabetical characters should be outputted unchanged.
 4. Preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
-5. Properly handle unexpected inputs
+5. Properly handle unexpected inputs.
 
 ```
 Example: 
