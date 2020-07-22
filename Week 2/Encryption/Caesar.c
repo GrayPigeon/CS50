@@ -124,7 +124,6 @@ void encrypt(string text, int shift)
                 // If the key is greater than 25
                 if (key > 25)
                 {
-
                     // Determine the remainder, which ultimately is the index of the character after encryption
                     key = key % 26;
                 }
