@@ -56,7 +56,6 @@ void encrypt(string text, int shift)
     // Loop through the string to be encrypted
     for (int i = 0; i < strlen(text); i++)
     {
-
         // If a charactar is a space
         if (text[i] == 32)
         {
