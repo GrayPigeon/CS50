@@ -18,3 +18,5 @@ In this example, the user inputs a text and using the Coleman-Liau formula, the 
 ```
 
 Note: I found this program to be relatively simple. I did have some trouble with the formula though, but overall pretty straight-forward.
+
+Link: https://cs50.harvard.edu/x/2020/psets/2/readability/
