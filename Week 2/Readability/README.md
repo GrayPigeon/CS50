@@ -13,6 +13,8 @@ Example:
   do it in secret, in the dead of the night. And he also happened to be a wizard.
   
   Output: Grade 5
+  
+In this example, the user inputs a text and using the Coleman-Liau formula, the program returns the grade level of this text
 ```
 
 Note: I found this program to be relatively simple. I did have some trouble with the formula though, but overall pretty straight-forward.
