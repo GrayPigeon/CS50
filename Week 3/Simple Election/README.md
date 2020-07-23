@@ -25,3 +25,5 @@ of voters and each voter's vote, for the program to then output the winner
 ```
 
 Note: This program took me probably around a half hour, as 90% of the code was already written, and the assignment just involved relatively basic code, and I assume the next two assignments will prove to be more challenging.
+
+Link: https://cs50.harvard.edu/x/2020/psets/3/plurality/
