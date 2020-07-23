@@ -14,7 +14,7 @@ Example:
   
   Output: Grade 5
   
-In this example, the user inputs a text and using the Coleman-Liau formula, the program returns the grade level of this text
+In this example, the user inputs a text and using the Coleman-Liau formula, the program returns the grade level of this text.
 ```
 
 Note: I found this program to be relatively simple. I did have some trouble with the formula though, but overall pretty straight-forward.
