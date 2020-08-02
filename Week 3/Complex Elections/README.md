@@ -52,3 +52,5 @@ In this example, the user is required to provide a list of candidates as command
 Note: I spent a good amount of time just analyzing this problem before I actually started coding. Much of the code was already provided, and as the instructions explained, I only had to complete those specific functions. This made the problem much more difficult, as I was writing off of 'someone else's' code. I wrote the entire program in one go, and then spent most of the time debugging. I could't even get a remotely close answer during this time. I began changing my code on a smaller scale, altering many small things, and all of a sudden everything worked perfectly. I don't even know what the logical error was, probably some mistype or something like that.
 
 Link: https://cs50.harvard.edu/x/2020/psets/3/runoff/
+
+NOTE: TIDEMAN WAS A FAILED ATTEMPT!!!!!!!!!!!
