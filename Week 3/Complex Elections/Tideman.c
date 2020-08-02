@@ -1,4 +1,8 @@
 // FAILED ATTEMPT
+// FAILED ATTEMPT
+// FAILED ATTEMPT
+// FAILED ATTEMPT
+// FAILED ATTEMPT
 
 #include <cs50.h>
 #include <stdio.h>
