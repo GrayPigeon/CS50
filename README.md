@@ -3,14 +3,10 @@
 ***
 **DISCLAIMER** 
 
-Do not access any of these solutions unless you are not taking the course or have already completed the problem. This is against CS50's academic honesty policy, copying someone else's code has never helped anyone. You will not learn by completing the problems yourself, not by looking at other solutions.
-
+Do not access any of these solutions unless you are not taking the course or have already completed the problem. This is against CS50's academic honesty policy, and breaking this policiy will result in harsh punishment. But possibly more significantly you would be damaging your future as a programmer and hindering your learning by copying others.
 [Academic Honesty Policy](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty)
 
 ***
-
-
-
 
 I have heard nothing but great things from this course, and I will be sure to offer my thoughts eventually.
 
