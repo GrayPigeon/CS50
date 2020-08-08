@@ -12,4 +12,3 @@ Example:
 ```
 
 Note: Unsurprisingly, this assignment was much easier in Python than in C. Although I will admit that I definetly had a much better design for this problem, so that definetly would have helped. I didn't experience many setbacks with this one. Also I didn't bother doing the easier assignment (Cash) because I recall it being quite easy and I figured it would be pointless.
-
