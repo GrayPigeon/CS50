@@ -1,3 +1,5 @@
+**Readability**
+
 Insturctions (paraphrased):
 1. Write a program that takes text input from the user
 2. The amount of letters, words, and sentences should be calculated
