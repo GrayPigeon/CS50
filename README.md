@@ -9,6 +9,7 @@ Please see CS50's [Academic Honesty Policy](https://docs.cs50.net/2016/fall/syll
 
 ***
 
-I offer some thoughts in a README for each assignment that I completed, and I thought the course as a whole was great. 
+I offer some thoughts in a README for each assignment that I completed.
+Currently, I am on the final project
 
 [Course](https://cs50.harvard.edu/x/2020/)
